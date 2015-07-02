@@ -30,7 +30,7 @@ var flightdata = require('../data/data.json');
 /* GET home page. */
 router.get('/', function(req, res, next) {
   res.render('index', {
-   title: 'Flights above you',
+   title: 'What is up there?',
    mysearch: flightdata
    } );
 });
