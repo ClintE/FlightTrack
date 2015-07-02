@@ -1,0 +1,200 @@
+{
+ "request": {
+  "latitude": {
+   "requested": "45.0",
+   "interpreted": 45
+  },
+  "longitude": {
+   "requested": "-122.0",
+   "interpreted": -122
+  },
+  "radiusMiles": {
+   "requested": "25",
+   "interpreted": 25
+  },
+  "maxFlights": {
+   "requested": "5",
+   "interpreted": 5
+  },
+  "extendedOptions": {},
+  "url": "https://api.flightstats.com/flex/flightstatus/rest/v2/json/flightsNear/45.00/-122.0/25"
+ },
+ "appendix": {},
+ "flightPositions": [
+  {
+   "flightId": 564200676,
+   "callsign": "DAL1194",
+   "heading": 116.36792483618378,
+   "source": "derived",
+   "positions": [
+    {
+     "lon": -122.6075,
+     "lat": 45.6003,
+     "speedMph": 192,
+     "altitudeFt": 800,
+     "source": "derived",
+     "date": "2015-07-01T23:57:56.000Z"
+    },
+    {
+     "lon": -122.7939,
+     "lat": 45.6651,
+     "speedMph": 374,
+     "altitudeFt": 5100,
+     "source": "derived",
+     "date": "2015-07-02T00:00:12.000Z"
+    },
+    {
+     "lon": -122.8882,
+     "lat": 45.6344,
+     "speedMph": 324,
+     "altitudeFt": 8501,
+     "source": "derived",
+     "date": "2015-07-02T00:01:12.000Z"
+    },
+    {
+     "lon": -122.8164,
+     "lat": 45.5418,
+     "speedMph": 354,
+     "altitudeFt": 12418,
+     "source": "derived",
+     "date": "2015-07-02T00:02:12.000Z"
+    },
+    {
+     "lon": -122.7841,
+     "lat": 45.44,
+     "speedMph": 512,
+     "altitudeFt": 17067,
+     "source": "derived",
+     "date": "2015-07-02T00:03:12.000Z"
+    },
+    {
+     "lon": -122.4374,
+     "lat": 45.3625,
+     "speedMph": 604,
+     "altitudeFt": 24117,
+     "source": "derived",
+     "date": "2015-07-02T00:04:12.000Z"
+    },
+    {
+     "lon": -122.1952,
+     "lat": 45.3802,
+     "speedMph": 604,
+     "altitudeFt": 14991,
+     "source": "derived",
+     "date": "2015-07-02T00:05:12.000Z"
+    },
+    {
+     "lon": -122.0535,
+     "lat": 45.2835,
+     "speedMph": 531,
+     "source": "derived",
+     "date": "2015-07-02T00:07:15.000Z"
+    },
+    {
+     "lon": -121.9347,
+     "lat": 45.2367,
+     "speedMph": 472,
+     "altitudeFt": 22182,
+     "source": "derived",
+     "date": "2015-07-02T00:08:15.000Z"
+    },
+    {
+     "lon": -121.7676,
+     "lat": 45.1732,
+     "speedMph": 520,
+     "altitudeFt": 23404,
+     "source": "derived",
+     "date": "2015-07-02T00:09:15.000Z"
+    }
+   ]
+  },
+  {
+   "flightId": 564226703,
+   "callsign": "WJA1698",
+   "heading": 354.83867545285705,
+   "source": "derived",
+   "positions": [
+    {
+     "lon": -122.2664,
+     "lat": 47.0526,
+     "speedMph": 452,
+     "altitudeFt": 34820,
+     "source": "derived",
+     "date": "2015-07-01T23:54:31.000Z"
+    },
+    {
+     "lon": -122.2489,
+     "lat": 46.9206,
+     "speedMph": 521,
+     "altitudeFt": 36014,
+     "source": "derived",
+     "date": "2015-07-01T23:55:31.000Z"
+    },
+    {
+     "lon": -122.2392,
+     "lat": 46.8484,
+     "speedMph": 386,
+     "altitudeFt": 37077,
+     "source": "derived",
+     "date": "2015-07-01T23:56:31.000Z"
+    },
+    {
+     "lon": -122.2041,
+     "lat": 46.547,
+     "speedMph": 478,
+     "altitudeFt": 36905,
+     "source": "derived",
+     "date": "2015-07-01T23:59:31.000Z"
+    },
+    {
+     "lon": -122.1187,
+     "lat": 45.8079,
+     "speedMph": 464,
+     "altitudeFt": 37000,
+     "source": "derived",
+     "date": "2015-07-02T00:04:32.000Z"
+    },
+    {
+     "lon": -122.1135,
+     "lat": 45.7622,
+     "speedMph": 285,
+     "altitudeFt": 37000,
+     "source": "derived",
+     "date": "2015-07-02T00:05:33.000Z"
+    },
+    {
+     "lon": -122.0938,
+     "lat": 45.5902,
+     "speedMph": 471,
+     "altitudeFt": 37000,
+     "source": "derived",
+     "date": "2015-07-02T00:06:33.000Z"
+    },
+    {
+     "lon": -122.0966,
+     "lat": 45.6144,
+     "speedMph": 46,
+     "altitudeFt": 37000,
+     "source": "derived",
+     "date": "2015-07-02T00:07:33.000Z"
+    },
+    {
+     "lon": -122.0705,
+     "lat": 45.3835,
+     "speedMph": 604,
+     "altitudeFt": 37000,
+     "source": "derived",
+     "date": "2015-07-02T00:08:33.000Z"
+    },
+    {
+     "lon": -122.0509,
+     "lat": 45.2087,
+     "speedMph": 604,
+     "altitudeFt": 37000,
+     "source": "derived",
+     "date": "2015-07-02T00:09:33.000Z"
+    }
+   ]
+  }
+ ]
+}
