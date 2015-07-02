@@ -7,6 +7,14 @@
   <body>
     <h1><%= title %></h1>
     <p>ALL flights currently above you: <%= mysearch.flightPositions %></p>
-    <%= appdata.flightPositions  %>
+    <%= appdata.flightPositions[0].callsign  %>
+    <%= appdata.flightPositions[0].positions[0].speedMph + "MPH"  %>
+    <%= appdata.flightPositions[0].positions[0].altitudeFt + "Feet"  %>
+
+    <br>
+    <%= appdata.flightPositions[1].callsign  %>
+    
+
+
   </body>
 </html>
